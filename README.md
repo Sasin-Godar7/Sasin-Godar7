@@ -51,9 +51,7 @@
 
 ### 📬 **Let's Connect**
 <p>
-  <a href="https://www.linkedin.com/in/your-real-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
   <a href="sago_bca2080@lict.edu.np">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
