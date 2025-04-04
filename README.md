@@ -34,7 +34,7 @@
 ### 📌 **Projects**
 🚀 Check out some of my featured projects:
 
-- 🏥 **[Hospital Appointment Booking]** - A modern hospita; website built using bootstrap .  
+- 🏥 **[Hospital Appointment Booking]** - A modern hospital website built using bootstrap .  
  
 📌 Find more projects on my **[GitHub Repositories](https://github.com/Sasin-Godar7?tab=repositories)**  
 
