@@ -48,6 +48,9 @@
 </p>
 
 ---
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sasin-Godar7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 📬 **Let's Connect**
 <p>
