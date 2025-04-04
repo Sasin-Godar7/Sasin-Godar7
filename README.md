@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/your-real-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yourreal.email@example.com">
+  <a href="sago_bca2080@lict.edu.np">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/your-real-twitter" target="_blank">
@@ -63,7 +63,7 @@
   <a href="https://www.facebook.com/sasin.godar" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/your-instagram-username" target="_blank">
+  <a href="https://www.instagram.com/sasinkshettry" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
