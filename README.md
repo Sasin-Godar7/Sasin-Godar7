@@ -40,12 +40,6 @@
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sasin-Godar7&theme=radical&hide_border=true" />
-  <br />
-  
-</p>
 
 ---
 ### 🏆 GitHub Trophies
