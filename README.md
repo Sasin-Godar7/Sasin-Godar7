@@ -39,7 +39,7 @@
 📌 Find more projects on my **[GitHub Repositories](https://github.com/Sasin-Godar7?tab=repositories)**  
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sasin-Godar7&theme=rose_pine&hide_border=true)](https://git.io/streak-stats)
 
 ---
 ### 🏆 GitHub Trophies
