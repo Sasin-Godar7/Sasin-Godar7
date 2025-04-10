@@ -40,7 +40,7 @@
 
 ---
 ### GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sasin-Godar7&theme=rose_pine&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
 ---
 ### 🏆 GitHub Trophies
