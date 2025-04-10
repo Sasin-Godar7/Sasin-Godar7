@@ -40,7 +40,7 @@
 
 ---
 ### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sasin-Godar7&theme=radical)
 
 ---
 ### 🏆 GitHub Trophies
