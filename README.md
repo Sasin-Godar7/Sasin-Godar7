@@ -42,6 +42,7 @@
 ---
 ### GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sasin-Godar7&theme=radical)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Sasin-Godar7&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 ### 🏆 GitHub Trophies
