@@ -41,9 +41,11 @@
 📌 Find more projects on my **[GitHub Repositories](https://github.com/Sasin-Godar7?tab=repositories)**  
 
 ---
-### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sasin-Godar7&theme=radical)
-
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Sasin-Godar7&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
+ ![](https://nirzak-streak-stats.vercel.app/?user=Sasin-Godar7&theme=holi&hide_border=false)<br/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasin-Godar7&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
 
 ---
 ### 🏆 GitHub Trophies
