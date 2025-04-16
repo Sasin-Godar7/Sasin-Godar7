@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Sasin Godar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F7AB0A&center=true&width=435&lines=Web+Developer+|+BCA+Student;Passionate+About+Building+Cool+Things;Lifelong+Learner+%26+Tech+Enthusiast" />
+  <h3 align="center">Aspiring Beginner Developer | Learning Web & App Dev | Passionate about Html, Java, JS</h3>
 </p>
 
 ---
