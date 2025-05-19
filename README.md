@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?&style=for-the-badge&logo=adobexd&logoColor=white" />
-  
+     
 
 </p>
 
