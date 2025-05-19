@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ **Tech Stack**
+### 🛠️ **Tech Stack** 
 <p>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
