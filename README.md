@@ -4,7 +4,6 @@
 
 <p align="center">
   <h3 align="center">Aspiring Beginner Developer | Learning Web & App Dev | Passionate about Html, Java, JS</h3>
-</p>
 
 ---
 
