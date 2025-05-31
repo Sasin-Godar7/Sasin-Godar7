@@ -13,7 +13,7 @@
 - 🚀 Always learning new technologies to enhance my skills.  
 - 🌱 Currently exploring **application development  & modern web technologies**.         
  
----
+--- 
 
 ### 🛠️ **Tech Stack** 
 <p> 
