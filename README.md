@@ -12,7 +12,7 @@
 - 💻 Web Developer | Passionate about building scalable & user-friendly applications.       
 - 🚀 Always learning new technologies to enhance my skills.   
 - 🌱 Currently exploring **application development  & modern web technologies**.       
-  
+   
 --- 
 
 ### 🛠️ **Tech Stack** 
