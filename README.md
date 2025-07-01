@@ -8,7 +8,7 @@
     
 </p>       
 ----   
-      
+       
 ### 🛠️ **About Me** 
 - 🎓 BCA student | 3rd Semester  
 - 💻 Web Developer | Passionate about building scalable & user-friendly applications.      
