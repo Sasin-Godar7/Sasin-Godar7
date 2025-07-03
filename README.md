@@ -9,7 +9,7 @@
 </p>       
 ----   
         
-### 🛠️ **About Me** 
+### 🛠️ **About Me**  
 - 🎓 BCA student | 3rd Semester  
 - 💻 Web Developer | Passionate about building scalable & user-friendly applications.      
 - 🚀 Always learning new technologies to enhance my skills.       
