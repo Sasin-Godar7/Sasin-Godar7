@@ -34,7 +34,7 @@
 </p>
 
 ---
-<p>![Visitor Count](https://komarev.com/ghpvc/?username=Sasin-Godar7&color=blue)
+<p>(https://komarev.com/ghpvc/?username=Sasin-Godar7&color=blue)
 </p>
 
 ---
