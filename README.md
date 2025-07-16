@@ -34,6 +34,10 @@
 </p>
 
 ---
+<p>![Visitor Count](https://komarev.com/ghpvc/?username=Sasin-Godar7&color=blue)
+</p>
+
+---
 
 ### 📌 **Projects**
 🚀 Check out some of my featured projects:
