@@ -6,7 +6,7 @@
 <p align="center">      
   <h3 align="center">Aspiring Beginner Developer | Learning Web & App Dev | Passionate about Html, Java,dsa</h3>  
       
-</p>          
+</p>           
 ----     
            
 ### 🛠️ **About Me**   
