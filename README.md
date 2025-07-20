@@ -1,7 +1,7 @@
     
 <!--Beautiful GitHub Profile README --> 
    
-<h1 align="center">Hi there, I'm Sasin Godar 👋</h1>     
+<h1 align="center">Hi there, I'm Sasin Godar 👋</h1>      
       
 <p align="center">      
   <h3 align="center">Aspiring Beginner Developer | Learning Web & App Dev | Passionate about Html, Java,dsa</h3>  
