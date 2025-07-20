@@ -7,7 +7,7 @@
   <h3 align="center">Aspiring Beginner Developer | Learning Web & App Dev | Passionate about Html, Java,dsa</h3>  
       
 </p>           
-----     
+---- 
            
 ### 🛠️ **About Me**   
 - 🎓 BCA student | 3rd Semester   
