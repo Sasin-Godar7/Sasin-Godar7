@@ -45,8 +45,9 @@
 🚀 Check out some of my featured projects:
 
 - 🏥 **[Hospital Appointment Booking]** - A modern hospital website built using bootstrap .
-- - [Hospital Booking System (Html + CSS + Js + PHP + MySQL)](https://github.com/YourUsername/Hospital-Appointment-Booking)  
-  A web-based hospital booking system that allows patients to book appointments, view schedules, and manage bookings.
+- [Hospital Appointment Booking (Html + CSS + Js + PHP + MySQL)](https://github.com/YourUsername/Hospital-Appointment-Booking)  
+  A web-based hospital appointment booking system that allows patients to book appointments, view schedules, and manage bookings online.
+
  
  
 📌 Find more projects on my **[GitHub Repositories](https://github.com/Sasin-Godar7?tab=repositories)**  
