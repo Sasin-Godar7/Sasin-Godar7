@@ -48,6 +48,10 @@
 - [Hospital Appointment Booking (Html + CSS + Js + PHP + MySQL)](https://github.com/Sasin-Godar7/Hospital-Appointment-Booking)  
   A web-based hospital appointment booking system that allows patients to book appointments, view schedules, and manage bookings online.
 
+  - 🧮 [Live Calculator Demo](https://<Sasin-Godar7>.github.io/Simple-Calculator/)
+
+  
+
  
  
 📌 Find more projects on my **[GitHub Repositories](https://github.com/Sasin-Godar7?tab=repositories)**    
