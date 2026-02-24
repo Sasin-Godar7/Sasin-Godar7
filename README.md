@@ -1,84 +1,102 @@
-                                                            
-<!--Beautiful GitHub Profile README --> 
-    
-<h1 align="center">Hi there, I'm Sasin Godar 👋</h1>       
-      
-<p align="center">       
-  <h3 align="center">Aspiring Beginner Developer | Learning Web & App Dev | Passionate about Html, Java,dsa</h3>     
-      
-</p>           
-----    
-           
-### 🛠️ **About Me**   
-- 🎓 BCA student |    
-- 💻 Web Developer | Passionate about building scalable & user-friendly applications.        
-- 🚀 Always learning new technologies to enhance my skills.        
-- 🌱 Currently exploring **application development  & modern  web technologies**.           
-    
---- 
+<!-- 💎 ELITE GitHub Profile README 💎 -->
 
-### 🛠️ **Tech Stack** 
-<p> 
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
- <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />  
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />  
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>   
+<h1 align="center">
+  Hi 👋, I'm Sasin Godar
+</h1>
 
-<img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />  
- <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?&style=for-the-badge&logo=adobexd&logoColor=white" />
-     
+<h3 align="center">
+  🚀 Aspiring Full Stack Developer | 💻 BCA Student | 🌱 Lifelong Learner
+</h3>
 
+<p align="center">
+  <a href="https://github.com/Sasin-Godar7">
+    <img src="https://komarev.com/ghpvc/?username=Sasin-Godar7&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
-![Visitor Count](https://komarev.com/ghpvc/?username=Sasin-Godar7&color=blue)
 
+## 🧑‍💻 About Me
 
----
-
-### 📌 **Projects**
-🚀 Check out some of my featured projects:
-
-- 🏥 **[Hospital Appointment Booking]** - A modern hospital website built using bootstrap . 
-
- 
-📌 Find more projects on my **[GitHub Repositories](https://github.com/Sasin-Godar7?tab=repositories)**    
+- 🎓 BCA Student passionate about building real-world applications  
+- 💡 Love solving problems using **DSA & Java**  
+- 🌐 Focused on **Modern Web Development & Application Development**  
+- 🔥 Currently improving my backend & full-stack skills  
+- 🎯 Goal: Become a highly skilled Full Stack Engineer  
 
 ---
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Sasin-Godar7&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
- ![](https://nirzak-streak-stats.vercel.app/?user=Sasin-Godar7&theme=holi&hide_border=false)<br/>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasin-Godar7&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- 
 
----
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sasin-Godar7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🛠️ Tech Arsenal
 
-
-### 📬 **Let's Connect**
+### 💻 Programming
 <p>
+  <img src="https://skillicons.dev/icons?i=c,java,js,php" />
+</p>
 
-  <a href="sago_bca2080@lict.edu.np">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-real-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
+
+### ⚙️ Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=ps" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🏥 Hospital Appointment Booking System
+> A responsive hospital management website with appointment booking functionality.
+
+- ✔ Clean UI using Bootstrap  
+- ✔ Secure backend with PHP  
+- ✔ User-friendly booking system  
+
+🔗 Explore more:  
+👉 **[View My Repositories](https://github.com/Sasin-Godar7?tab=repositories)**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sasin-Godar7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sasin-Godar7&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasin-Godar7&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sasin-Godar7&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p>
+  <a href="mailto:sago_bca2080@lict.edu.np">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/sasin.godar" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/sasinkshettry" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>   
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
-
 
 ---
 
-
+<h3 align="center">
+  ⚡ “Code. Improve. Repeat.” ⚡
+</h3>
