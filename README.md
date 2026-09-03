@@ -30,7 +30,7 @@
 
 ### 💻 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,js,php" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,php,cs" />
 </p>
 
 ### 🌐 Frontend
