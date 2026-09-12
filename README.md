@@ -1,4 +1,4 @@
- <!-- 💎 ELITE GitHub Profile README 💎 -->
+<!-- 💎 ELITE GitHub Profile README 💎 -->
 
 <h1 align="center">
   Hi 👋, I'm Sasin Godar
@@ -18,45 +18,82 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 BCA Student passionate about building real-world applications  
-- 💡 Love solving problems using **DSA & Java**  
-- 🌐 Focused on **Modern Web Development & Application Development**  
-- 🔥 Currently improving my backend & full-stack skills  
-- 🎯 Goal: Become a highly skilled Full Stack Engineer  
+* 🎓 BCA Student passionate about building real-world applications
+* 💡 Love solving problems using **DSA, Java & Programming**
+* 🌐 Interested in **Modern Web Development & Application Development**
+* ☕ Currently learning **Advanced Java & Backend Development**
+* 🔥 Continuously improving my **Full Stack Development** skills
+* 🎯 Goal: Become a highly skilled **Full Stack Engineer**
 
 ---
 
 ## 🛠️ Tech Arsenal
 
-### 💻 Programming
+### 💻 Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,js,php,cs" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 
-### ⚙️ Tools & Design
+### ⚙️ Backend & Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-  <img src="https://skillicons.dev/icons?i=ps" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,java" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 📚 Currently Learning
+
+```text
+☕ Advanced Java
+🌐 Web Development
+⚙️ Backend Development
+🧠 Data Structures & Algorithms
+🚀 Full Stack Development
+```
+
+---
+
+## 🚀 Featured Projects
 
 ### 🏥 Hospital Appointment Booking System
+
 > A responsive hospital management website with appointment booking functionality.
 
-- ✔ Clean UI using Bootstrap  
-- ✔ Secure backend with PHP  
-- ✔ User-friendly booking system  
+* ✔ Clean UI using Bootstrap
+* ✔ Backend development with PHP
+* ✔ User-friendly appointment booking system
+* ✔ Database integration
 
-🔗 Explore more:  
-👉 **[View My Repositories](https://github.com/Sasin-Godar7?tab=repositories)**
+🔗 **[View My Repositories](https://github.com/Sasin-Godar7?tab=repositories)**
+
+---
+
+### ☕ Advanced Java Programs
+
+> A collection of Java programs and practical implementations created while learning Advanced Java.
+
+* ✔ Java GUI Applications
+* ✔ Networking Programs
+* ✔ Event Handling
+* ✔ JDBC & Database Connectivity
+* ✔ Servlet & Web-based Applications
+* ✔ Practical Java Concepts
+
+🔗 **[Explore Advance Java Repository](https://github.com/Sasin-Godar7)**
 
 ---
 
@@ -87,9 +124,11 @@
   <a href="mailto:sago_bca2080@lict.edu.np">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.facebook.com/sasin.godar" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+
   <a href="https://www.instagram.com/sasinkshettry" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -98,5 +137,5 @@
 ---
 
 <h3 align="center">
-  ⚡ “Code. Improve. Repeat.” ⚡
+  ⚡ "Code. Improve. Repeat." ⚡
 </h3>
